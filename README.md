@@ -11,6 +11,6 @@ Or wherever your Gal Gun 2 game directory is. The mod will then be added to UE4S
 
 Then after running the game, the mod will be enabled.
 
-Everything should work as intended, but if anything isn't working in the export process, leave a comment on this link here and I'll take care of it.
+Everything should work as intended, but if anything isn't working in the export process or instructions are unclear, leave a comment on this link here and I'll take care of it.
 
 https://steamcommunity.com/app/851890/discussions/0/568176845289400836/?tscn=1794871170
